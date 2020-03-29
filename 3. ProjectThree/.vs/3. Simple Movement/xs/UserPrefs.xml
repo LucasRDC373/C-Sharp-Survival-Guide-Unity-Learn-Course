@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3D71ECE2-9B20-E945-DBC6-B39F7B6A290B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Collectables.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="24" Column="12" />
+      <File FileName="Assets/Scripts/Collectables.cs" Line="7" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3. Simple Movement" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Collectables.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a60fb05c-a755-4fa7-a9ee-a1bf9553cb5c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
