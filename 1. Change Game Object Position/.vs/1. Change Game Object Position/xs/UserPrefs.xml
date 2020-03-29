@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{11F3A5BD-E7B1-92AA-7596-32F18ADAD7C2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Main.cs">
+    <Files>
+      <File FileName="Assets/Main.cs" Line="11" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1. Change Game Object Position" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a4d9d170-355b-4fea-81bc-948b5d98a5bd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
