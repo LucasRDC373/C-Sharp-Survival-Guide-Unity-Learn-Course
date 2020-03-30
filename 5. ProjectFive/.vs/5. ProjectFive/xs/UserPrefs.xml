@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{65E753DD-D71F-F2F3-ACDC-7DE436D6FDD1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Aim.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Aim.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/Aim.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="5. ProjectFive" expanded="True" />
+          <Node name="5. ProjectFive" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Aim.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
