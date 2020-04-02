@@ -20,7 +20,10 @@ public class Aim : MonoBehaviour
         Vector3 directionToFace = _sphere.position - transform.position;
 
         //access our current rotation = Quaternion Look Rotation
-        transform.rotation = Quaternion.LookRotation(directionToFace);
+        Quaternion targetRotation = Quaternion.LookRotation(directionToFace);
         Debug.DrawRay(transform.position, directionToFace, Color.green);
+
+        transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, Time.deltaTime);
+
     }
 }

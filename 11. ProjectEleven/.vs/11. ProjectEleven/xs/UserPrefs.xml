@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{665FA0F4-3DE1-9765-6018-30AE78613CEB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/QuizCalculator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/QuizCalculator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="11. ProjectEleven" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="QuizCalculator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c0771da4-1986-4a30-b9c9-30a9e5cac43b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

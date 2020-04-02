@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Aim.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/lucasrdc/Desktop/C-Sharp-Survival-Guide-Unity-Learn-Course/5. ProjectFive/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
