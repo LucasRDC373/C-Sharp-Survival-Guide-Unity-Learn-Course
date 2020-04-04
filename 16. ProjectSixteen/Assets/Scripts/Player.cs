@@ -29,7 +29,7 @@ public class Player : MonoBehaviour
 
         if(scoreValue >= 50 && cubeGreen == false)
         {
-            cubeRenderer.material.SetColor("_Color", Color.Green);
+            cubeRenderer.material.SetColor("_Color", Color.green);
         }
     }
 }

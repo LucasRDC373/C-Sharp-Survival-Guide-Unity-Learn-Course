@@ -1,0 +1,12 @@
+
+
+
+FOR LOOPS:
+
+-When  Iterate through all monster in a "blast" zone and deal appropriate damage\
+
+- Shatter an object (requires looping through each individual  piece and adding physics)\
+
+- When you add an item to a player inventory, you need to loop through the database to see if that item exists before adding it \
+
+- You want to turn game objects in view RED (You need to iterate through each object using a loop and effect each one}
